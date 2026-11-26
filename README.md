@@ -15,3 +15,6 @@ A Python Chess Game featuring a graphical interface and an AI opponent powered b
 1. Clone the repository.
 2. Install the required dependencies.
 3. Run the main Python file.
+## Algorithm
+
+The computer uses the Minimax algorithm to evaluate possible moves and choose the best move against the human player.
