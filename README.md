@@ -6,7 +6,7 @@ A Python Chess Game featuring a graphical interface and an AI opponent powered b
 - AI opponent powered by the Minimax algorithm.
 - Intelligent move selection.
 - Interactive chess game.
-- 
+
  ## Technologies Used
 - Python
 - Tkinter (GUI)
