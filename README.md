@@ -10,3 +10,8 @@ A Python Chess Game featuring a graphical interface and an AI opponent powered b
 ## Technologies Used
 - Python
 - Minimax Algorithm
+ ## How to Run
+
+1. Clone the repository.
+2. Install the required dependencies.
+3. Run the main Python file.
