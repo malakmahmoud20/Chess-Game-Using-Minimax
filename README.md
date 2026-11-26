@@ -28,4 +28,4 @@ A Python Chess Game featuring a graphical interface and an AI opponent powered b
 The computer uses the Minimax algorithm to evaluate possible moves and choose the best move against the human player.
 ## Screenshots
 
-![Chess Game](chess_game.png)
+![Chess Game](ChessGame.png)
