@@ -6,15 +6,23 @@ A Python Chess Game featuring a graphical interface and an AI opponent powered b
 - AI opponent powered by the Minimax algorithm.
 - Intelligent move selection.
 - Interactive chess game.
-  
-## Technologies Used
+- 
+ ## Technologies Used
 - Python
+- Tkinter (GUI)
+- python-chess Library
 - Minimax Algorithm
- ## How to Run
+- Alpha-Beta Pruning
+## How to Run
 
 1. Clone the repository.
-2. Install the required dependencies.
-3. Run the main Python file.
+2. Install the required dependencies:
+
+   pip install -r requirements.txt
+
+3. Run the game:
+
+   python chess_minimax.py
 ## Algorithm
 
 The computer uses the Minimax algorithm to evaluate possible moves and choose the best move against the human player.
